@@ -20,3 +20,6 @@ git add .
 
 # Commit the changes
 git commit -m "Update Kubernetes manifest"
+
+# Push the changes back to the repository
+git push
